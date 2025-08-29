@@ -1,0 +1,8 @@
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_1/C000146_1__filteredsorted.bam C000146_1
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_2/C000146_2__filteredsorted.bam C000146_2
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_3/C000146_3__filteredsorted.bam C000146_3
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_4/C000146_4__filteredsorted.bam C000146_4
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_5/C000146_5__filteredsorted.bam C000146_5
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_6/C000146_6__filteredsorted.bam C000146_6
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_7/C000146_7__filteredsorted.bam C000146_7
+/home/ucbtpli/Scratch/C000146_malemouse_isoquant/C000146_8/C000146_8__filteredsorted.bam C000146_8

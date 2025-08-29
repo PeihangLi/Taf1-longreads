@@ -1,0 +1,9 @@
+/home/ucbtpli/Scratch/oarfish_C000119/912979_1/912979_cerebellum_Xrange.fastq 912979_cerebellum
+/home/ucbtpli/Scratch/oarfish_C000119/912979_2/912979_cortex_Xrange.fastq 912979_cortex
+/home/ucbtpli/Scratch/oarfish_C000119/912979_3/912979_hippocampus_Xrange.fastq 912979_hippocampus
+/home/ucbtpli/Scratch/oarfish_C000119/912979_4/912979_striatum_Xrange.fastq 912979_striatum
+/home/ucbtpli/Scratch/oarfish_C000119/912985_5/912985_Cerebellum_Xrange.fastq 912985_cerebellum
+/home/ucbtpli/Scratch/oarfish_C000119/912985_6/912985_Cortex_Xrange.fastq 912985_cortex
+/home/ucbtpli/Scratch/oarfish_C000119/912985_7/912985_Hippocampus_Xrange.fastq 912985_hippocampus
+/home/ucbtpli/Scratch/oarfish_C000119/912985_8/912985_Striatum_Xrange.fastq 912985_striatum
+/home/ucbtpli/Scratch/oarfish_C000119/912998_9/912998_Striatum_Xrange.fastq 912998_striatum

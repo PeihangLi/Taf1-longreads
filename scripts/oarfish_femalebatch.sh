@@ -10,13 +10,13 @@
 #$ -l tmpfs=20G
 
 # Set up the job array; here tasks 1-9 correspond to our 4 samples. ##
-#$ -t 1-12
+#$ -t 1-9
 
 # Set the job name.
-#$ -N oarfish_000137
+#$ -N oarfish_000119
 
 # Set the working directory (replace <your_UCL_id> with your UCL user ID).
-#$ -wd /home/ucbtpli/Scratch/oarfish_C000137
+#$ -wd /home/ucbtpli/Scratch/oarfish_C000119
 
 #$ -j y
 
@@ -25,21 +25,23 @@ conda activate Taf1
 
 # Task-specific parameter extraction
 number=$SGE_TASK_ID
-paramfile="/home/ucbtpli/Scratch/oarfish_C000137/oarparas_bodytissue.txt"
+paramfile="/home/ucbtpli/Scratch/oarfish_C000119/oarfish_all_params.txt"
 
 # Read the fastq and sample label from the param file
 fastq_file="$(sed -n ${number}p $paramfile | awk '{print $1}')"
 sample_label="$(sed -n ${number}p $paramfile | awk '{print $2}')"
 
 # Set reference and output paths
-REFERENCE="/home/ucbtpli/Scratch/transcripts_3.mmi" 
-OUTPUT_DIR="/home/ucbtpli/Scratch/oarfish_C000137/${sample_label}.output"
+REFERENCE="/home/ucbtpli/Scratch/canonical_novel_all_Peihang_nTaf1.fa" 
+INDEX_OUT="/home/ucbtpli/Scratch/transcripts_3.mmi"
+OUTPUT_DIR="/home/ucbtpli/Scratch/oarfish_C000119/${sample_label}.output"
 
 # Run oarfish
 oarfish -j 3 \
   --reads $fastq_file \
   --num-bootstraps 30 \
   --reference $REFERENCE \
+  --index-out $INDEX_OUT \
   --seq-tech ont-cdna \
   -o $OUTPUT_DIR \
   --filter-group no-filters \

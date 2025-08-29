@@ -1,0 +1,8 @@
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_1/C000146_1_Xrange.fastq C000146_1
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_2/C000146_2_Xrange.fastq C000146_2
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_3/C000146_3_Xrange.fastq C000146_3
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_4/C000146_4_Xrange.fastq C000146_4
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_5/C000146_5_Xrange.fastq C000146_5
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_6/C000146_6_Xrange.fastq C000146_6
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_7/C000146_7_Xrange.fastq C000146_7
+/home/ucbtpli/Scratch/oarfish_C000146_male/C000146_8/C000146_8_Xrange.fastq C000146_8
