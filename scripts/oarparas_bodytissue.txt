@@ -1,0 +1,12 @@
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_1/C000137_1_Xrange.fastq C000137_1
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_10/C000137_10_Xrange.fastq C000137_10
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_11/C000137_11_Xrange.fastq C000137_11
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_12/C000137_12_Xrange.fastq C000137_12
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_2/C000137_2_Xrange.fastq C000137_2
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_3/C000137_3_Xrange.fastq C000137_3
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_4/C000137_4_Xrange.fastq C000137_4
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_5/C000137_5_Xrange.fastq C000137_5
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_6/C000137_6_Xrange.fastq C000137_6
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_7/C000137_7_Xrange.fastq C000137_7
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_8/C000137_8_Xrange.fastq C000137_8
+/home/ucbtpli/Scratch/oarfish_C000137/C000137_9/C000137_9_Xrange.fastq C000137_9
